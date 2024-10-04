@@ -1,0 +1,78 @@
+/* Estilo geral do contêiner do formulário */
+.form-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+}
+
+/* Título do formulário */
+.form-title {
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Estilo dos grupos de formulário */
+.form-group {
+  margin-bottom: 15px;
+}
+
+/* Estilo dos rótulos */
+.form-group label {
+  display: block;
+  font-weight: bold;
+  color: #555;
+}
+
+/* Estilo dos campos de entrada */
+.form-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: border-color 0.3s;
+}
+
+/* Estilo dos campos de texto */
+.form-input:focus {
+  border-color: #007BFF;
+  outline: none;
+}
+
+/* Estilo do botão */
+.form-button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 10px;
+}
+
+/* Efeito hover no botão */
+.form-button:hover {
+  background-color: #0056b3;
+}
+
+/* Estilo para as seções do formulário */
+h3 {
+  font-size: 20px;
+  color: #333;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Estilo para as textareas */
+.form-input[type="textarea"] {
+  height: 100px;
+  resize: vertical;
+}
