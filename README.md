@@ -3,7 +3,7 @@ Sobre o projeto | Usabilidades | Ferramentas | Modelagem de Dados | Screenshots 
 
 
 ✒️ Sobre o projeto
-Aplicativo para atendimento efetuado por voluntários do Institito Cabp Frio da área da saúde que realizam atendimentos à domicílio. Esse é um Trabalho de Extensão decorrente da Disciplina  Sistemas de Informacao e Sociedade, ministradas pelo professor - Jessen Vidal.
+Aplicativo desenvolvido por mim para atendimento efetuado por voluntários do Instituto Cabo Frio da área da saúde que realizam atendimentos à domicílio. Esse é um Trabalho de Extensão decorrente da Disciplina  Sistemas de Informacao e Sociedade.
 
 
 🪢 Usabilidades
